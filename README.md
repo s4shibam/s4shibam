@@ -1,9 +1,9 @@
-### Hi, I'm Shibam Saha 👋🏻
+## Hi, I'm Shibam Saha 👋🏻
 
 - 👀 I’m interested in ... Coding, Learning new technologies, exploring ideas.
-- 🌱 I’m currently learning ... DSA, Java & Web development.
-- 💬 Ask me about ... Java, OOPs, Web-Dev.
-- 💞️ I’m looking to collaborate on ... Web development projects!
+- 🌱 I’m currently learning ... DSA, CS Fundamentals & Web Development.
+- 💬 Ask me about ... C/C++, Java, OOPs, Web Development.
+- 💞️ I’m looking for ... Web Development Internship opportunities!
 - 📫 How to reach me ... [Linkedin](https://linkedin.com/in/s4shibam) , [Twitter](https://twitter.com/s4shibam)
 - 😄 Pronouns ... He/His
 - ⚡ Fun fact ... I love Tea over Coffee!!
