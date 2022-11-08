@@ -1,5 +1,9 @@
 ## Hi, I'm Shibam Saha 👋🏻
 
+<div align="center">
+  <img src="./coding.gif" width="600" height="300"/>
+</div>
+
 - 👀 I’m interested in ... Coding, Learning new technologies, exploring ideas.
 - 🌱 I’m currently learning ... DSA, CS Fundamentals & Web Development.
 - 💬 Ask me about ... C/C++, Java, OOPs, Web Development.
