@@ -18,7 +18,7 @@
 <hr>
 
 ### Connect with Me:
-
+<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>
 <hr>
 
 ### Familiar Tech Stack:
