@@ -1,7 +1,7 @@
 ## Hi, I'm Shibam Saha 👋🏻
 
 <div align="center">
-  <img src="./coding.gif" width="480" height="360"/>
+  <img src="./media/coding.gif" width="480" height="360"/>
 </div>
 
 <hr>
