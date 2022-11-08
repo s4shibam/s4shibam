@@ -4,7 +4,7 @@
   <img src="./coding.gif" width="480" height="360"/>
 </div>
 
-<br>
+<hr>
 
 ### Facts about Me:
 - 👀 I’m interested in ... Coding, Learning new technologies, exploring ideas.
@@ -15,11 +15,26 @@
 - 😄 Pronouns ... He/His
 - ⚡ Fun fact ... I love Tea over Coffee!!
 
+<hr>
+
 ### Connect with Me:
 
-<br>
+<hr>
 
-### My Projects:
+### Familiar Tech Stack:
+
+<hr>
+
+### My Projects (Live Link):
+
+- [Registration Form](https://s4shibam-registrationform.netlify.app)
+- [Digital Clock Web App](https://s4shibam-digitalclock.netlify.app)
+- [Calculator Web App](https://s4shibam-calculator.netlify.app)
+- [Filmingg - Movie Database](https://s4shibam-filmingg.netlify.app)
+- [Screnoo - Record PC Screen with Audio](https://s4shibam-screnoo.netlify.app)
+- [Certivita - Certificate Generator](https://s4shibam-certivita.netlify.app)
+
+**For Code** - Visit [Here](https://github.com/s4shibam/Developed-Projects/tree/main/Web%20Development).
 
 <!---
 s4shibam/s4shibam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
