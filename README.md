@@ -10,15 +10,14 @@
 - 👀 I’m interested in ... Coding, Learning new technologies, exploring ideas.
 - 🌱 I’m currently learning ... DSA, CS Fundamentals & Web Development.
 - 💬 Ask me about ... C/C++, Java, OOPs, Web Development.
-- 💞️ I’m looking for ... Web Development Internship opportunities!
-- 📫 How to reach me ... [Linkedin](https://linkedin.com/in/s4shibam) , [Twitter](https://twitter.com/s4shibam)
+- 💞️ I’m looking for ... Web Development/Software Development Internship opportunities!
 - 😄 Pronouns ... He/His
 - ⚡ Fun fact ... I love Tea over Coffee!!
 
 <hr>
 
 ### Connect with Me:
-[Facebook](https://facebook.com/s4shibam) || [Twitter](https://twitter.com/s4shibam) || [Linkedin](https://linkedin.com/in/s4shibam) || [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=s4shibam%2Bwork@gmail.com)
+[Facebook](https://facebook.com/s4shibam)  ||  [Twitter](https://twitter.com/s4shibam)  ||  [Linkedin](https://linkedin.com/in/s4shibam)  ||  [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=s4shibam%2Bwork@gmail.com)
 
 <hr>
 
