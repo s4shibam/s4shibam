@@ -18,10 +18,12 @@
 <hr>
 
 ### Connect with Me:
-<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Pixel perfect - Flaticon</a>
+[Facebook](https://facebook.com/s4shibam) || [Twitter](https://twitter.com/s4shibam) || [Linkedin](https://linkedin.com/in/s4shibam) || [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=s4shibam+work@gmail.com)
+
 <hr>
 
 ### Familiar Tech Stack:
+C, C++, Java, Python, HTML, CSS, JavaScript, TailwindCSS, ViteJS etc. 
 
 <hr>
 
