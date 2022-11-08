@@ -18,7 +18,7 @@
 <hr>
 
 ### Connect with Me:
-[Facebook](https://facebook.com/s4shibam) || [Twitter](https://twitter.com/s4shibam) || [Linkedin](https://linkedin.com/in/s4shibam) || [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=s4shibam+work@gmail.com)
+[Facebook](https://facebook.com/s4shibam) || [Twitter](https://twitter.com/s4shibam) || [Linkedin](https://linkedin.com/in/s4shibam) || [Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=s4shibam@gmail.com)
 
 <hr>
 
