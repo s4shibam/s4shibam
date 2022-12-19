@@ -27,13 +27,20 @@ C, C++, Java, Python, HTML, CSS, JavaScript, TailwindCSS, ViteJS etc.
 <hr>
 
 ### My Projects (Live Link):
+- #### Python Mini Projects
+  - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Guess%20The%20Number)
+  - [Rock Paper Scissors Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Rock%20Paper%20Scissors)
+  - [Health Management System](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Health%20Management%20System)
 
-- [Registration Form](https://s4shibam-registrationform.netlify.app)
-- [Digital Clock Web App](https://s4shibam-digitalclock.netlify.app)
-- [Calculator Web App](https://s4shibam-calculator.netlify.app)
-- [Filmingg - Movie Database](https://s4shibam-filmingg.netlify.app)
-- [Screnoo - Record PC Screen with Audio](https://s4shibam-screnoo.netlify.app)
-- [Certivita - Certificate Generator](https://s4shibam-certivita.netlify.app)
+- #### Web Development UI Projects
+  - [Registration Form](https://s4shibam-registrationform.netlify.app)
+  - [Digital Clock Web App](https://s4shibam-digitalclock.netlify.app)
+  - [Calculator Web App](https://s4shibam-calculator.netlify.app)
+ 
+- #### Web Development Mini Projects
+  - [Filmingg - Movie Database](https://s4shibam-filmingg.netlify.app)
+  - [Screnoo - Record PC Screen with Audio](https://s4shibam-screnoo.netlify.app)
+  - [Certivita - Certificate Generator](https://s4shibam-certivita.netlify.app)
 
 **For Code** - Visit [Here](https://github.com/s4shibam/Developed-Projects/tree/main/Web%20Development).
 
