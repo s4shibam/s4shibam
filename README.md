@@ -48,6 +48,11 @@
 
 **For Code** - Visit [Here](https://github.com/s4shibam/Developed-Projects/tree/main/Web%20Development).
 
+<hr>
+
+![GitHub Snake Light](media/heatmap.svg#gh-light-mode-only)
+![GitHub Snake dark](media/heatmap.svg#gh-dark-mode-only)
+
 <!---
 s4shibam/s4shibam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
