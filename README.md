@@ -22,7 +22,11 @@
 <hr>
 
 ### Familiar Tech Stack:
-C, C++, Java, Python, HTML, CSS, JavaScript, TailwindCSS, ViteJS etc. 
+
+`C` `  ` `C++` `  ` `Java` `   ` `Python` `        `\
+`HTML` `   ` `CSS` `   ` `JavaScript` `  ` `Node JS`\
+`    ` `Tailwind CSS` `   ` `React JS` `     `\
+`ViteJS` `      ` `etc.`
 
 <hr>
 
