@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="./media/coding.gif" width="480" height="360"/>
+  <img src="./media/quote.jpg" width="480" height="40"/>
 </div>
 
 <hr>
@@ -106,7 +107,10 @@
 ![GitHub Snake Light](media/heatmap.svg#gh-light-mode-only)
 ![GitHub Snake dark](media/heatmap.svg#gh-dark-mode-only)
 
-<!---
-s4shibam/s4shibam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- 
+External Credits:
+ 
+Badge Credit: https://shields.io/
+Logo Credit: https://simpleicons.org/
+GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+-->
