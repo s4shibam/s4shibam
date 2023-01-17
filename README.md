@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="./media/coding.gif" width="480" height="360"/>
+</div>
+<div align="center">
   <img src="./media/quote.jpg" width="480" height="40"/>
 </div>
 
