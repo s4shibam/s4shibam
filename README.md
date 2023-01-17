@@ -93,12 +93,10 @@
 
 #### About
  
-`
 ✒ I am a pre-final year student at Techno International Newtown, having a major in Computer Science and Engineering and I enjoy doing Problem Solving (Data Structures and Algorithms). I love to learn about new concepts and technologies and how they are applicable in day-to-day life. 
 
 ✒ I am currently practicing Hackerrank and GeeksforGeeks and developing my skills. I am well-versed in Object-Oriented Programming fundamentals. I have a keen interest in Website Development and developed a few websites using HTML/CSS. I also aim to be proficient in Operating Systems, Database Management Systems, and Computer Networks.
-`
-  
+
 #### Github Stats
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s4shibam&count_private=true&theme=tokyonight&hide=contribs,prs)
