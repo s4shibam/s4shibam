@@ -42,7 +42,7 @@
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](#)
-![Java](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Java](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=CoffeeScript&logoColor=white)(#)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=black)](#)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](#)
