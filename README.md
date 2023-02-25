@@ -86,6 +86,9 @@
   - [Certivita - Certificate Generator](https://s4shibam-certivita.netlify.app)
   - [Sudoku Solver - Backtracking Algorithm Visualizer](https://s4shibam-sudoku-solver.netlify.app)
 
+- #### Web Development Semi Major Projects
+  - [Quizzy - Quiz Application](https://s4shibam-quizzy.netlify.app)
+
 **For Code** - Visit [Here](https://github.com/s4shibam/Developed-Projects/tree/main/Web%20Development).
 
 <hr>
