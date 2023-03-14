@@ -100,13 +100,17 @@
 
 #### About
  
-✒ I am a pre-final year student at Techno International Newtown, having a major in Computer Science and Engineering and I enjoy doing Problem Solving (Data Structures and Algorithms). I love to learn about new concepts and technologies and how they are applicable in day-to-day life. 
+✒ As a driven and diligent Pre-Final year Computer Science (B. Tech) student, I am proud to possess a comprehensive understanding of Web Development, Data Structures and Algorithms, and Computer Fundamentals.
 
-✒ I am currently practicing Hackerrank and GeeksforGeeks and developing my skills. I am well-versed in Object-Oriented Programming fundamentals. I have a keen interest in Website Development and developed a few websites using HTML/CSS. I also aim to be proficient in Operating Systems, Database Management Systems, and Computer Networks.
+✒ My natural curiosity and passion for technology have allowed me to develop a keen sense of problem-solving, critical thinking, and attention to detail. Additionally, I have a strong interest in competitive programming, which has honed my abilities to think creatively, develop efficient solutions to complex problems, and apply algorithmic thinking to real-world challenges. I am highly motivated, enthusiastic, and proactive, and always eager to take on new challenges and learn new skills. Whether it be through coding competitions or personal projects, I am continuously striving to improve and excel in the field of computer science. With my strong technical skills and unwavering commitment to excellence, I am confident in my ability to make a meaningful impact in any team environment.
 
 #### Github Stats
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s4shibam&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+#### Leetcode Stats
+  
+![LeetCode Stats](https://leetcode.card.workers.dev/s4shibam?theme=auto&font=baloo&extension=null)
 
 </details>
 
