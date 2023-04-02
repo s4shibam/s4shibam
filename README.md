@@ -1,4 +1,4 @@
-## Hi, I'm Shibam Saha <img src="./media/hello.gif" width="28px" alt="👋">
+## Hi, I'm [Shibam Saha](https://github.com//s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume_Public.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
   <img src="./media/coding.gif" width="480" height="360"/>
@@ -101,9 +101,9 @@
 
 #### About
  
-✒ As a driven and diligent Pre-Final year Computer Science (B. Tech) student, I am proud to possess a comprehensive understanding of Web Development, Data Structures and Algorithms, and Computer Fundamentals.
+✒ I am proud to be a focused and dedicated Pre-Final year Computer Science (B. Tech) student with a thorough understanding of Web Development, Data Structures and Algorithms, and Computer Fundamentals.
 
-✒ My natural curiosity and passion for technology have allowed me to develop a keen sense of problem-solving, critical thinking, and attention to detail. Additionally, I have a strong interest in competitive programming, which has honed my abilities to think creatively, develop efficient solutions to complex problems, and apply algorithmic thinking to real-world challenges. I am highly motivated, enthusiastic, and proactive, and always eager to take on new challenges and learn new skills. Whether it be through coding competitions or personal projects, I am continuously striving to improve and excel in the field of computer science. With my strong technical skills and unwavering commitment to excellence, I am confident in my ability to make a meaningful impact in any team environment.
+✒ My natural curiosity and love of technology have given me a keen sense of problem-solving, critical thinking, and attention to detail. Furthermore, I am passionate about competitive programming, which has sharpened my abilities to think strategically, develop efficient solutions to complex problems, and apply algorithmic thinking to real-world challenges. I am a highly motivated, optimistic, and proactive individual who is always eager to take on new challenges and learn new skills. I am constantly striving to improve and excel in the field of computer science, whether through coding competitions or personal projects. I am confident in my ability to make a significant impact in any team environment due to my strong technical skills and unwavering commitment to excellence.
 
 #### Github Stats
   
