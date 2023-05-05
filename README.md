@@ -115,8 +115,7 @@
 
 </details>
 
-![GitHub Snake Light](media/heatmap.svg#gh-light-mode-only)
-![GitHub Snake dark](media/heatmap.svg#gh-dark-mode-only)
+![GitHub Snake](https://github.com/s4shibam/s4shibam/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 External Credits:
