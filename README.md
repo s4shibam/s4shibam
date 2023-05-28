@@ -50,15 +50,17 @@
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)](#)
-[![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](#)
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=black)](#)
 [![React JS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black)](#)
+
 [![Vite JS](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=Vite&logoColor=white)](#)
-<!-- [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) -->
+[![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](#)
+[![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 <!-- [![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) -->
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](#)
-<!-- [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)](#) -->
-<!-- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](#) -->
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](#)
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white)](#)
@@ -107,6 +109,8 @@
 
 #### Github Stats
   
+![Profile Views](https://komarev.com/ghpvc/?username=s4shibam&label=PROFILE+VIEWS)  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s4shibam&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 #### Leetcode Stats
@@ -123,4 +127,5 @@ External Credits:
 Badge Credit: https://shields.io/
 Logo Credit: https://simpleicons.org/
 GitHub Stats: https://github.com/anuraghazra/github-readme-stats
+Profile Views Counter: https://github.com/antonkomarev/github-profile-views-counter
 -->
