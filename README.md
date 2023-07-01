@@ -1,4 +1,4 @@
-## Hi, I'm [Shibam Saha](https://github.com//s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume_Public.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
+## Hi, I'm [Shibam Saha](https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
   <img src="./media/coding.gif" width="480" height="360"/>
@@ -9,8 +9,8 @@
 
 <hr>
 
-### Facts about Me:
-- 👀 I’m interested in ... Competitive Programming, Development, Learning new technologies, exploring ideas.
+### Facts About Me:
+- 👀 I’m interested in ... Competitive Programming, Development, Learning new technologies, and exploring ideas.
 - 🌱 I’m currently learning ... DSA, Web Development &  CS Fundamentals.
 - 💬 Ask me about ... CP, Web Development.
 - 💞️ I’m looking for ... Web Development/Software Development Internship opportunities!
@@ -71,12 +71,28 @@
 
 <hr>
 
-### My Projects (Live Link):
-- #### Python Mini Projects
+### My Projects:
+- #### Python Projects
   - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Guess%20The%20Number)
   - [Rock Paper Scissors Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Rock%20Paper%20Scissors)
   - [Health Management System](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Health%20Management%20System)
 
+- #### Web Development Projects
+    |     **Title**     |     **Description**     |                              **Code**                               |                       **Demo**                        |            **Tech Stack**            |
+    | :---------------: | :---------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------: |
+    | Registration Form | _Registration Form UI_  |      [Link](https://github.com/s4shibam/Registration-Form-UI)       | [Live](https://s4shibam-registrationform.netlify.app) |             `HTML` `CSS`             |
+    |       Clock       |     _Digital Clock_     |          [Link](https://github.com/s4shibam/Digital-Clock)          |   [Live](https://s4shibam-digitalclock.netlify.app)   |          `HTML` `CSS` `JS`           |
+    |    Calculator     |   _Normal Calculator_   |           [Link](https://github.com/s4shibam/Calculator)            |    [Live](https://s4shibam-calculator.netlify.app)    |          `HTML` `CSS` `JS`           |
+    |     Filmingg      |  _Movie Searching App_  |     [Link](https://github.com/s4shibam/Filmingg-Movie-Database)     |     [Live](https://s4shibam-filmingg.netlify.app)     |      `HTML` `Tailwind CSS` `JS`      |
+    |      Screnoo      |  _PC Screen Recorder_   |   [Link](https://github.com/s4shibam/Screnoo-PC-Screen-Recorder)    |     [Live](https://s4shibam-screnoo.netlify.app)      |      `HTML` `Tailwind CSS` `JS`      |
+    |     Certivita     | _Certificate Generator_ | [Link](https://github.com/s4shibam/Certivita-Certificate-Generator) |    [Live](https://s4shibam-certivita.netlify.app)     |      `HTML` `Tailwind CSS` `JS`      |
+    |   Sudoku Solver   |     _Sudoku Solver_     |      [Link](https://github.com/s4shibam/Sudoku-Solver-Web-App)      |  [Live](https://s4shibam-sudoku-solver.netlify.app)   |      `HTML` `Tailwind CSS` `JS`      |
+    |      Quizzy       |   _Quiz Application_    |     [Link](https://github.com/s4shibam/Quizzy-Quiz-Application)     |      [Live](https://s4shibam-quizzy.netlify.app)      | `React JS` `Tailwind CSS` `Firebase` |
+    |     Portfolio     |  _Personal Portfolio_   |        [Link](https://github.com/s4shibam/Portfolio-Website)        |        [Live](https://shibamsaha.netlify.app)         |       `React JS` `Tailwind CSS`      |
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
+
+<!-- 
 - #### Web Development UI Projects
   - [Registration Form](https://s4shibam-registrationform.netlify.app)
   - [Digital Clock Web App](https://s4shibam-digitalclock.netlify.app)
@@ -88,11 +104,12 @@
   - [Certivita - Certificate Generator](https://s4shibam-certivita.netlify.app)
   - [Sudoku Solver - Backtracking Algorithm Visualizer](https://s4shibam-sudoku-solver.netlify.app)
 
-- #### Web Development Semi Major Projects
+- #### Web Development Semi-Major Projects
   - [Quizzy - Quiz Application](https://s4shibam-quizzy.netlify.app)
-  - [Shibam Saha - Portfolio Website](https://shibamsaha.netlify.app)
+  - [Shibam Saha - Portfolio Website](https://shibamsaha.netlify.app) 
 
 **For More Details** - Visit [Here](https://github.com/s4shibam/Developed-Projects).
+-->
 
 <hr>
 
@@ -103,9 +120,10 @@
 
 #### About
  
-✒ I am proud to be a focused and dedicated Pre-Final year Computer Science (B. Tech) student with a thorough understanding of Web Development, Data Structures and Algorithms, and Computer Fundamentals.
+✒ I consider myself to be an ambitious dedicated computer science (B. Tech) student who has a strong understanding of web development, data structures and algorithms, and computer fundamentals.
 
-✒ My natural curiosity and love of technology have given me a keen sense of problem-solving, critical thinking, and attention to detail. Furthermore, I am passionate about competitive programming, which has sharpened my abilities to think strategically, develop efficient solutions to complex problems, and apply algorithmic thinking to real-world challenges. I am a highly motivated, optimistic, and proactive individual who is always eager to take on new challenges and learn new skills. I am constantly striving to improve and excel in the field of computer science, whether through coding competitions or personal projects. I am confident in my ability to make a significant impact in any team environment due to my strong technical skills and unwavering commitment to excellence.
+✒ My passion for technology and competitive programming has developed my problem-solving, critical thinking, and attention to detail skills. I am highly motivated, optimistic, and proactive.
+I am eager to take on new challenges and learn new skills. I constantly strive to improve and excel in computer science through coding competitions and personal projects. With strong technical skills and unwavering commitment to excellence, I am confident in my ability to make a significant impact in any team environment.
 
 #### Github Stats
   
