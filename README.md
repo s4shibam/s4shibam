@@ -1,11 +1,11 @@
 ## Hi, I'm [Shibam Saha](https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
-  <img src="./media/coding.gif" width="480" height="360"/>
+  <img src="./media/hero.png" width="900"/>
 </div>
-<div align="center">
-  <img src="./media/quote.jpg" width="480" height="40"/>
-</div>
+<!-- <div align="center"> -->
+<!--   <img src="./media/quote.jpg" width="480" height="40"/> -->
+<!-- </div> -->
 
 <hr>
 
@@ -82,9 +82,7 @@
 - #### Web Development Projects
     |     **Title**     |     **Description**     |                              **Code**                               |                       **Demo**                        |            **Tech Stack**            |
     | :---------------: | :---------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------: |
-    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
-    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
-    |     Portfolio     |  _Personal Portfolio_   |        [Link](https://github.com/s4shibam/Portfolio-Website)        |        [Live](https://shibamsaha.netlify.app)         |`Next JS` `TypeScript` `Tailwind CSS` |
+    |     Portfolio     |  _Personal Portfolio_   |        [Link](https://github.com/s4shibam/Portfolio-Website)        |            [Live](https://shibamsaha.dev)             |`Next JS` `TypeScript` `Tailwind CSS` |
     |      Quizzy       |   _Quiz Application_    |     [Link](https://github.com/s4shibam/Quizzy-Quiz-Application)     |      [Live](https://s4shibam-quizzy.netlify.app)      | `React JS` `Tailwind CSS` `Firebase` |
     |   Sudoku Solver   |     _Sudoku Solver_     |      [Link](https://github.com/s4shibam/Sudoku-Solver-Web-App)      |  [Live](https://s4shibam-sudoku-solver.netlify.app)   |      `HTML` `Tailwind CSS` `JS`      |
     |     Certivita     | _Certificate Generator_ | [Link](https://github.com/s4shibam/Certivita-Certificate-Generator) |    [Live](https://s4shibam-certivita.netlify.app)     |      `HTML` `Tailwind CSS` `JS`      |
@@ -93,7 +91,8 @@
     |    Calculator     |   _Normal Calculator_   |           [Link](https://github.com/s4shibam/Calculator)            |    [Live](https://s4shibam-calculator.netlify.app)    |          `HTML` `CSS` `JS`           |
     |       Clock       |     _Digital Clock_     |          [Link](https://github.com/s4shibam/Digital-Clock)          |   [Live](https://s4shibam-digitalclock.netlify.app)   |          `HTML` `CSS` `JS`           |
     | Registration Form | _Registration Form UI_  |      [Link](https://github.com/s4shibam/Registration-Form-UI)       | [Live](https://s4shibam-registrationform.netlify.app) |             `HTML` `CSS`             |
-
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
 <!-- 
 - #### Web Development UI Projects
   - [Registration Form](https://s4shibam-registrationform.netlify.app)
