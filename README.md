@@ -1,7 +1,9 @@
 ## Hi, I'm [Shibam Saha](https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
-  <img src="./media/banner.png" width="900"/>
+  <a href="https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf">
+    <img src="./media/banner.png" width="900"/>
+  </a>
 </div>
 <!-- <div align="center"> -->
 <!--   <img src="./media/quote.jpg" width="480" height="40"/> -->
