@@ -1,4 +1,4 @@
-## Hi, I'm [Shibam Saha](https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
+## Hi, I'm Shibam Saha <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
   <a href="https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf">
