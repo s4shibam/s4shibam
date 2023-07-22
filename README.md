@@ -1,7 +1,7 @@
 ## Hi, I'm [Shibam Saha](https://github.com/s4shibam/s4shibam/raw/main/resume/Shibam_Saha_Resume.pdf) <img src="./media/hello.gif" width="28px" alt="👋">
 
 <div align="center">
-  <img src="./media/hero.png" width="900"/>
+  <img src="./media/banner.png" width="900"/>
 </div>
 <!-- <div align="center"> -->
 <!--   <img src="./media/quote.jpg" width="480" height="40"/> -->
