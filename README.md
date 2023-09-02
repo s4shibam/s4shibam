@@ -26,6 +26,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s4shibam)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4shibam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/s4shibam) 
+
 <hr>
 
 ### Coding Profiles:
@@ -41,47 +42,55 @@
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=CoffeeScript&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=CoffeeScript&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=black)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](#)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)](#)
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black)](#)
-[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=black)](#)
 [![Ant D](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=black)](#)
+[![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=MUI&logoColor=black)](#)
 [![React JS](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=black)](#)
-[![Vite JS](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=Vite&logoColor=white)](#)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](#)
 [![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)](#)
 [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black)](#)
+[![Vite JS](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=Vite&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white)](#)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](#)
 [![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)](#)
+
+
+
 
 <hr>
 
 ### My Projects:
 
 - #### Web Development Projects
-    |     **Title**     |     **Description**     |                              **Code**                               |                       **Demo**                        |            **Tech Stack**            |
-    | :---------------: | :---------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------: | :----------------------------------: |
-    |     Portfolio     |  _Personal Portfolio_   |        [Link](https://github.com/s4shibam/Portfolio-Website)        |            [Live](https://shibamsaha.dev)             |`Next JS` `TypeScript` `Tailwind CSS` |
-    |      Quizzy       |   _Quiz Application_    |     [Link](https://github.com/s4shibam/Quizzy-Quiz-Application)     |      [Live](https://s4shibam-quizzy.netlify.app)      | `React JS` `Tailwind CSS` `Firebase` |
-    |   Sudoku Solver   |     _Sudoku Solver_     |      [Link](https://github.com/s4shibam/Sudoku-Solver-Web-App)      |  [Live](https://s4shibam-sudoku-solver.netlify.app)   |      `HTML` `Tailwind CSS` `JS`      |
-    |     Certivita     | _Certificate Generator_ | [Link](https://github.com/s4shibam/Certivita-Certificate-Generator) |    [Live](https://s4shibam-certivita.netlify.app)     |      `HTML` `Tailwind CSS` `JS`      |
-    |      Screnoo      |  _PC Screen Recorder_   |   [Link](https://github.com/s4shibam/Screnoo-PC-Screen-Recorder)    |     [Live](https://s4shibam-screnoo.netlify.app)      |      `HTML` `Tailwind CSS` `JS`      |
-    |     Filmingg      |  _Movie Searching App_  |     [Link](https://github.com/s4shibam/Filmingg-Movie-Database)     |     [Live](https://s4shibam-filmingg.netlify.app)     |      `HTML` `Tailwind CSS` `JS`      |
-    |    Calculator     |   _Normal Calculator_   |           [Link](https://github.com/s4shibam/Calculator)            |    [Live](https://s4shibam-calculator.netlify.app)    |          `HTML` `CSS` `JS`           |
-    |       Clock       |     _Digital Clock_     |          [Link](https://github.com/s4shibam/Digital-Clock)          |   [Live](https://s4shibam-digitalclock.netlify.app)   |          `HTML` `CSS` `JS`           |
-    | Registration Form | _Registration Form UI_  |      [Link](https://github.com/s4shibam/Registration-Form-UI)       | [Live](https://s4shibam-registrationform.netlify.app) |             `HTML` `CSS`             |
-    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
-    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.netlify.app)         |       `xyz` `xyz`      | -->
+    |  **Title**         |  **Description**         |  **Code**                                                 |  **Demo**                                             |  **Tech Stack**                        |
+    | :----------------: | :----------------------: | :-------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------: |
+    |  Portfolio         |  _Personal Portfolio_    |  [Link](https://github.com/s4shibam/portfolio)            |  [Live](https://shibamsaha.dev)                       |  `Next JS` `TypeScript` `Tailwind CSS` |
+    |  Quizzy            |  _Quiz Application_      |  [Link](https://github.com/s4shibam/quizzy)               |  [Live](https://quizzy.shibamsaha.dev)                |  `React JS` `Tailwind CSS` `Firebase`  |
+    |  Sudoku Solver     |  _Sudoku Solver_         |  [Link](https://github.com/s4shibam/sudoku-solver)        |  [Live](https://sudoku-solver.shibamsaha.dev)         |  `HTML` `Tailwind CSS` `JS`            |
+    |  Certivita         |  _Certificate Generator_ |  [Link](https://github.com/s4shibam/certivita)            |  [Live](https://certivita.shibamsaha.dev)             |  `HTML` `Tailwind CSS` `JS`            |
+    |  Screnoo           |  _PC Screen Recorder_    |  [Link](https://github.com/s4shibam/screnoo)              |  [Live](https://screnoo.shibamsaha.dev)               |  `HTML` `Tailwind CSS` `JS`            |
+    |  Filmingg          |  _Movie Searching App_   |  [Link](https://github.com/s4shibam/filmingg)             |  [Live](https://filmingg.shibamsaha.dev)              |  `HTML` `Tailwind CSS` `JS`            |
+    |  Calculator        |  _Normal Calculator_     |  [Link](https://github.com/s4shibam/calculator)           |  [Live](https://calculator.shibamsaha.dev)            |  `HTML` `CSS` `JS`                     |
+    |  Clock             |  _Digital Clock_         |  [Link](https://github.com/s4shibam/digital-clock)        |  [Live](https://digital-clock.shibamsaha.dev)         |  `HTML` `CSS` `JS`                     |
+    |  Registration Form |  _Registration Form UI_  |  [Link](https://github.com/s4shibam/registration-form-ui) |  [Live](https://registration-form-ui.shibamsaha.dev)  |  `HTML` `CSS`                          |
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.shibamsaha.dev)         |       `xyz` `xyz`      | -->
+    <!-- |     XYZ     |  _XYZ_   |        [Link](https://github.com/s4shibam/XYZ)        |        [Live](https://XYZ.shibamsaha.dev)         |       `xyz` `xyz`      | -->
 
 - #### Python Projects
   - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Guess%20The%20Number)
