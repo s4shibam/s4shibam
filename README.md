@@ -82,7 +82,7 @@
     | :----------------: | :----------------------: | :-------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------: |
     |  Portfolio         |  _Personal Portfolio_    |  [Link](https://github.com/s4shibam/portfolio)            |  [Live](https://shibamsaha.dev)                       |  `Next JS` `TypeScript` `Tailwind CSS` |
     |  Quizzy            |  _Quiz Application_      |  [Link](https://github.com/s4shibam/quizzy)               |  [Live](https://quizzy.shibamsaha.dev)                |  `React JS` `Tailwind CSS` `Firebase`  |
-    |  Sudoku Solver     |  _Sudoku Wizard_         |  [Link](https://github.com/s4shibam/sudoku-wizard)        |  [Live](https://sudoku-wizard.shibamsaha.dev)         |  `HTML` `Tailwind CSS` `JS`            |
+    |  Sudoku Wizard     |  _Sudoku Solver_         |  [Link](https://github.com/s4shibam/sudoku-wizard)        |  [Live](https://sudoku-wizard.shibamsaha.dev)         |  `HTML` `Tailwind CSS` `JS`            |
     |  Certivita         |  _Certificate Generator_ |  [Link](https://github.com/s4shibam/certivita)            |  [Live](https://certivita.shibamsaha.dev)             |  `HTML` `Tailwind CSS` `JS`            |
     |  Screnoo           |  _PC Screen Recorder_    |  [Link](https://github.com/s4shibam/screnoo)              |  [Live](https://screnoo.shibamsaha.dev)               |  `HTML` `Tailwind CSS` `JS`            |
     |  Filmingg          |  _Movie Searching App_   |  [Link](https://github.com/s4shibam/filmingg)             |  [Live](https://filmingg.shibamsaha.dev)              |  `HTML` `Tailwind CSS` `JS`            |
