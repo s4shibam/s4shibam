@@ -80,6 +80,7 @@
 - #### Web Development Projects
     |  **Title**         |  **Description**         |  **Code**                                                 |  **Demo**                                             |  **Tech Stack**                        |
     | :----------------: | :----------------------: | :-------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------: |
+    |  Ckret             |  _Anonymous Messaging_   |  [Link](https://github.com/s4shibam/ckret)                |  [Live](https://ckret.xyz)                            |  `Next JS` `TypeScript` `Shadcn/ui`    |
     |  Portfolio         |  _Personal Portfolio_    |  [Link](https://github.com/s4shibam/portfolio)            |  [Live](https://shibamsaha.dev)                       |  `Next JS` `TypeScript` `Tailwind CSS` |
     |  Quizzy            |  _Quiz Application_      |  [Link](https://github.com/s4shibam/quizzy)               |  [Live](https://quizzy.shibamsaha.dev)                |  `React JS` `Tailwind CSS` `Firebase`  |
     |  Sudoku Wizard     |  _Sudoku Solver_         |  [Link](https://github.com/s4shibam/sudoku-wizard)        |  [Live](https://sudoku-wizard.shibamsaha.dev)         |  `HTML` `Tailwind CSS` `JS`            |
