@@ -116,9 +116,9 @@
 
 - #### Python Projects
 
-  - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15._Mini_Projects/Guess_The_Number)
-  - [Rock Paper Scissors Game](https://github.com/s4shibam/Python-Programming/tree/master/15._Mini_Projects/Rock_Paper_Scissors)
-  - [Health Management System](https://github.com/s4shibam/Python-Programming/tree/master/15._Mini_Projects/Health_Management_System)
+  - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Guess%20The%20Number)
+  - [Rock Paper Scissors Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Rock%20Paper%20Scissors)
+  - [Health Management System](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Health%20Management%20System)
 
 <hr>
 
