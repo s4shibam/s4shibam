@@ -101,9 +101,10 @@
 
     |  **Title**         |  **Description**         |  **Code**                                                 |  **Demo**                                             |  **Tech Stack**                        |
     | ----------------   | ----------------------   | -------------------------------------------------------   | ---------------------------------------------------   | ------------------------------------   |
+    |  Shib AI             |  _Shibam's AI Assistant_   |  NA                |  [Live](https://ai.s4shibam.com)                            |  `next` `openai` `upstash`          |
     |  Ckret             |  _Anonymous Messaging_   |  [Link](https://github.com/s4shibam/ckret)                |  [Live](https://ckret.xyz)                            |  `next` `shadcn/ui` `mongodb`          |
     |  Portfolio         |  _Personal Portfolio_    |  [Link](https://github.com/s4shibam/portfolio)            |  [Live](https://s4shibam.com)                         |  `next` `typescript` `supabase`        |
-    |  Quizzy            |  _Quiz Application_      |  [Link](https://github.com/s4shibam/quizzy)               |  [Live](https://quizzy.s4shibam.com)                  |  `react` `tailwindcss` `firebase`      |
+    |  Cuizzy            |  _Quiz Application_      |  [Link](https://github.com/s4shibam/cuizzy)               |  [Live](https://cuizzy.s4shibam.com)                  |  `react` `tailwindcss` `firebase`      |
     |  Sudoku Wizard     |  _Sudoku Solver_         |  [Link](https://github.com/s4shibam/sudoku-wizard)        |  [Live](https://sudoku-wizard.s4shibam.com)           |  `html` `tailwindcss` `javascript`     |
     |  Certivita         |  _Certificate Generator_ |  [Link](https://github.com/s4shibam/certivita)            |  [Live](https://certivita.s4shibam.com)               |  `html` `tailwindcss` `javascript`     |
     |  Screnoo           |  _PC Screen Recorder_    |  [Link](https://github.com/s4shibam/screnoo)              |  [Live](https://screnoo.s4shibam.com)                 |  `html` `tailwindcss` `javascript`     |
