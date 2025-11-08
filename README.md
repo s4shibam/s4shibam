@@ -98,22 +98,24 @@
 
 ### My Projects
 
-- #### Web Development Projects
+- #### Web & App Development Projects
 
-    |  **Title**         |  **Description**         |  **Code**                                                 |  **Demo**                                             |  **Tech Stack**                        |
-    | ----------------   | ----------------------   | -------------------------------------------------------   | ---------------------------------------------------   | ------------------------------------   |
-    |  Shib AI           |  _Shibam's AI Assistant_ |  NA                                                       |  [Live](https://ai.s4shibam.com)                      |  `next` `openai` `upstash`          |
-    |  Cuizzy Mobile     |  _Quiz App (Mobile)_     |  [Link](https://github.com/s4shibam/cuizzy-mobile)        |  NA                                                   |  `react-native` `expo` `nativewind`      |
-    |  Ckret             |  _Anonymous Messaging_   |  [Link](https://github.com/s4shibam/ckret)                |  [Live](https://ckret.xyz)                            |  `next` `shadcn/ui` `mongodb`          |
-    |  Portfolio         |  _Personal Portfolio_    |  [Link](https://github.com/s4shibam/portfolio)            |  [Live](https://s4shibam.com)                         |  `next` `typescript` `supabase`        |
-    |  Cuizzy            |  _Quiz App (Web)_        |  [Link](https://github.com/s4shibam/cuizzy)               |  [Live](https://cuizzy.s4shibam.com)                  |  `react` `tailwindcss` `firebase`      |
-    |  Sudoku Wizard     |  _Sudoku Solver_         |  [Link](https://github.com/s4shibam/sudoku-wizard)        |  [Live](https://sudoku-wizard.s4shibam.com)           |  `html` `tailwindcss` `javascript`     |
-    |  Certivita         |  _Certificate Generator_ |  [Link](https://github.com/s4shibam/certivita)            |  [Live](https://certivita.s4shibam.com)               |  `html` `tailwindcss` `javascript`     |
-    |  Screnoo           |  _PC Screen Recorder_    |  [Link](https://github.com/s4shibam/screnoo)              |  [Live](https://screnoo.s4shibam.com)                 |  `html` `tailwindcss` `javascript`     |
-    |  Filmingg          |  _Movie Searching App_   |  [Link](https://github.com/s4shibam/filmingg)             |  [Live](https://filmingg.s4shibam.com)                |  `html` `tailwindcss` `javascript`     |
-    |  Calculator        |  _Normal Calculator_     |  [Link](https://github.com/s4shibam/calculator)           |  [Live](https://calculator.s4shibam.com)              |  `html` `css` `javascript`             |
-    |  Clock             |  _Digital Clock_         |  [Link](https://github.com/s4shibam/digital-clock)        |  [Live](https://digital-clock.s4shibam.com)           |  `html` `css` `javascript`             |
-    |  Registration Form |  _Registration Form UI_  |  [Link](https://github.com/s4shibam/registration-form-ui) |  [Live](https://registration-form-ui.s4shibam.com)    |  `html` `css`                          |
+  | **Title**         | **Description**            | **Code**                                                 | **Demo**                                          | **Tech Stack**                     |
+  | ----------------- | -------------------------- | -------------------------------------------------------- | ------------------------------------------------- | ---------------------------------- |
+  | Quco AI           | _Shell Commands Generator_ | [Link](https://github.com/s4shibam/quco-ai)              | [NPM](https://www.npmjs.com/package/quco)         | `node.js` `vercel ai`              |
+  | Mizzo             | _Music Streaming Platform_ | [Link](https://github.com/s4shibam/mizzo)                | [Live](https://mizzo.s4shibam.com)                | `next` `express` `postgres` `aws`  |
+  | Shib AI           | _Shibam's AI Assistant_    | [Link](https://github.com/s4shibam/shib-ai)              | [Live](https://ai.s4shibam.com)                   | `next` `openai` `upstash`          |
+  | Cuizzy Mobile     | _Quiz App (Mobile)_        | [Link](https://github.com/s4shibam/cuizzy-mobile)        | NA                                                | `react-native` `expo` `nativewind` |
+  | Ckret             | _Anonymous Messaging_      | [Link](https://github.com/s4shibam/ckret)                | [Live](https://ckret.xyz)                         | `next` `shadcn/ui` `mongodb`       |
+  | Portfolio         | _Personal Portfolio_       | [Link](https://github.com/s4shibam/portfolio)            | [Live](https://s4shibam.com)                      | `next` `typescript` `supabase`     |
+  | Cuizzy            | _Quiz App (Web)_           | [Link](https://github.com/s4shibam/cuizzy)               | [Live](https://cuizzy.s4shibam.com)               | `react` `tailwindcss` `firebase`   |
+  | Sudoku Wizard     | _Sudoku Solver_            | [Link](https://github.com/s4shibam/sudoku-wizard)        | [Live](https://sudoku-wizard.s4shibam.com)        | `html` `tailwindcss` `javascript`  |
+  | Certivita         | _Certificate Generator_    | [Link](https://github.com/s4shibam/certivita)            | [Live](https://certivita.s4shibam.com)            | `html` `tailwindcss` `javascript`  |
+  | Screnoo           | _PC Screen Recorder_       | [Link](https://github.com/s4shibam/screnoo)              | [Live](https://screnoo.s4shibam.com)              | `html` `tailwindcss` `javascript`  |
+  | Filmingg          | _Movie Searching App_      | [Link](https://github.com/s4shibam/filmingg)             | [Live](https://filmingg.s4shibam.com)             | `html` `tailwindcss` `javascript`  |
+  | Calculator        | _Normal Calculator_        | [Link](https://github.com/s4shibam/calculator)           | [Live](https://calculator.s4shibam.com)           | `html` `css` `javascript`          |
+  | Clock             | _Digital Clock_            | [Link](https://github.com/s4shibam/digital-clock)        | [Live](https://digital-clock.s4shibam.com)        | `html` `css` `javascript`          |
+  | Registration Form | _Registration Form UI_     | [Link](https://github.com/s4shibam/registration-form-ui) | [Live](https://registration-form-ui.s4shibam.com) | `html` `css`                       |
 
 - #### Python Projects
 
