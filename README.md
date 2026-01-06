@@ -103,6 +103,7 @@
   | **Title**         | **Description**            | **Code**                                                 | **Demo**                                          | **Tech Stack**                     |
   | ----------------- | -------------------------- | -------------------------------------------------------- | ------------------------------------------------- | ---------------------------------- |
   | Quco AI           | _Shell Commands Generator_ | [Link](https://github.com/s4shibam/quco-ai)              | [NPM](https://www.npmjs.com/package/quco)         | `node.js` `vercel ai`              |
+  | Ruggi             | _Document Chat App (Web)_  | [Link](https://github.com/s4shibam/ruggi)                | [Live](https://ruggi.s4shibam.com)                | `python` `tanstack-router` `celery`|
   | Mizzo             | _Music Streaming Platform_ | [Link](https://github.com/s4shibam/mizzo)                | [Live](https://mizzo.s4shibam.com)                | `next` `express` `postgres` `aws`  |
   | Shib AI           | _Shibam's AI Assistant_    | [Link](https://github.com/s4shibam/shib-ai)              | [Live](https://ai.s4shibam.com)                   | `next` `openai` `upstash`          |
   | Cuizzy Mobile     | _Quiz App (Mobile)_        | [Link](https://github.com/s4shibam/cuizzy-mobile)        | NA                                                | `react-native` `expo` `nativewind` |
