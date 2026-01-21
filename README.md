@@ -1,47 +1,32 @@
 # Hi, I'm Shibam Saha <img src="./media/hello.gif" width="28px" alt="👋">
 
-<div align="center">
-  <a href="https://s4shibam.com/r_public">
-    <img alt="banner" src="./media/banner.png" width="900"/>
-  </a>
-</div>
+### About Me
+
+I'm a **Full Stack Engineer** (**2+ YOE**) who writes code responsibly, built products from scratch, and ships fast without sacrificing quality. I've worked across **market research platforms**, **sales intelligence systems**, **employee benefit tools**, and **e-commerce stores**. Built **audio transcoding infrastructure**, **multi-query RAG engines**, **AI hiring platforms**, **chat-bots**, and **npm packages**. Went from **ACM ICPC regionals** to shipping products people actually use.
+
+Find all my social links at [s4shibam.com/links](https://s4shibam.com/links).
 
 <hr>
 
-### Facts About Me
+### My Projects
 
-| | | |
-|-|-|-|
-| 👦🏻 | Pronouns are             | He / His                                               |
-| 💞️ | Interested in            | Web & Mobile Development, Cloud Computing  Etc.        |
-| 💻 | Currently working on     | React, Next, Express, Django, PostgreSQL Etc.          |
-| 🎁 | Projects available at    | [s4shibam.com/projects](https://s4shibam.com/projects) |
-| 🌱 | Currently learning       | Amazon Web Services                                    |
-| 💬 | Ask me about             | DSA, Full Stack Development Etc.                       |
-| 👀 | Looking opportunities in | Software / Full Stack Development                      |
-| 😂 | Fun fact is              | I love Tea over Coffee!!                               |
-| 💻 | Most used line of code   | `console.log("asdf")`                                  |
-||||
-
-<hr>
-
-### Connect with Me
-
-[![Cal.com](https://img.shields.io/badge/Cal.com-333?logo=caldotcom)](https://s4shibam.com/_cl)
-[![Facebook](https://img.shields.io/badge/Facebook-333?logo=facebook)](https://s4shibam.com/_fb)
-[![Gmail](https://img.shields.io/badge/Gmail-333?logo=gmail)](https://s4shibam.com/_gm)
-[![Instagram](https://img.shields.io/badge/Instagram-333?logo=instagram)](https://s4shibam.com/_ig)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-333?logo=linkedin)](https://s4shibam.com/_li)
-[![Twitter](https://img.shields.io/badge/Twitter-333?logo=twitter)](https://s4shibam.com/_tw)
-
-<hr>
-
-### Coding Profiles
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-333?logo=CodeChef)](https://s4shibam.com/_cc)
-[![CodeForces](https://img.shields.io/badge/CodeForces-333?logo=Codeforces)](https://s4shibam.com/_cf)
-[![LeetCode](https://img.shields.io/badge/LeetCode-333?logo=LeetCode)](https://s4shibam.com/_lc)
-[![HackerRank](https://img.shields.io/badge/HackerRank-333?logo=HackerRank)](https://s4shibam.com/_hr)
+| **Title** | **Description** | **Code** | **Demo** | **Tech Stack** |
+| - | - | - | - | - |
+| Quco AI | *Shell Commands Generator* | [Code](https://github.com/s4shibam/quco-ai) | [NPM](https://www.npmjs.com/package/quco) | `node.js` `vercel ai` |
+| Ruggi | *Document Chat App (Web)* | [Code](https://github.com/s4shibam/ruggi) | [Live](https://ruggi.s4shibam.com) | `python` `tanstack-router` `celery` |
+| Mizzo | *Music Streaming Platform* | [Code](https://github.com/s4shibam/mizzo) | [Live](https://mizzo.s4shibam.com) | `next` `express` `postgres` `aws` |
+| Shib AI | *Shibam's AI Assistant* | [Code](https://github.com/s4shibam/shib-ai) | [Live](https://ai.s4shibam.com) | `next` `openai` `upstash` |
+| Cuizzy Mobile | *Quiz App (Mobile)* | [Code](https://github.com/s4shibam/cuizzy-mobile) | NA | `react-native` `expo` `nativewind` |
+| Ckret | *Anonymous Messaging* | [Code](https://github.com/s4shibam/ckret) | [Live](https://ckret.xyz) | `next` `shadcn/ui` `mongodb` |
+| Portfolio | *Personal Portfolio* | [Code](https://github.com/s4shibam/portfolio) | [Live](https://s4shibam.com) | `next` `typescript` `supabase` |
+| Cuizzy | *Quiz App (Web)* | [Code](https://github.com/s4shibam/cuizzy) | [Live](https://cuizzy.s4shibam.com) | `react` `tailwindcss` `firebase` |
+| Sudoku Wizard | *Sudoku Solver* | [Code](https://github.com/s4shibam/sudoku-wizard) | [Live](https://sudoku-wizard.s4shibam.com) | `html` `tailwindcss` `javascript` |
+| Certivita | *Certificate Generator* | [Code](https://github.com/s4shibam/certivita) | [Live](https://certivita.s4shibam.com) | `html` `tailwindcss` `javascript` |
+| Screnoo | *PC Screen Recorder* | [Code](https://github.com/s4shibam/screnoo) | [Live](https://screnoo.s4shibam.com) | `html` `tailwindcss` `javascript` |
+| Filmingg | *Movie Searching App* | [Code](https://github.com/s4shibam/filmingg) | [Live](https://filmingg.s4shibam.com) | `html` `tailwindcss` `javascript` |
+| Calculator | *Normal Calculator* | [Code](https://github.com/s4shibam/calculator) | [Live](https://calculator.s4shibam.com) | `html` `css` `javascript` |
+| Clock | *Digital Clock* | [Code](https://github.com/s4shibam/digital-clock) | [Live](https://digital-clock.s4shibam.com) | `html` `css` `javascript` |
+| Registration Form | *Registration Form UI* | [Code](https://github.com/s4shibam/registration-form-ui) | [Live](https://registration-form-ui.s4shibam.com) | `html` `css` |
 
 <hr>
 
@@ -96,33 +81,12 @@
 
 <hr>
 
-### My Projects
+### Coding Profiles
 
-- #### Web & App Development Projects
-
-  | **Title**         | **Description**            | **Code**                                                 | **Demo**                                          | **Tech Stack**                     |
-  | ----------------- | -------------------------- | -------------------------------------------------------- | ------------------------------------------------- | ---------------------------------- |
-  | Quco AI           | _Shell Commands Generator_ | [Link](https://github.com/s4shibam/quco-ai)              | [NPM](https://www.npmjs.com/package/quco)         | `node.js` `vercel ai`              |
-  | Ruggi             | _Document Chat App (Web)_  | [Link](https://github.com/s4shibam/ruggi)                | [Live](https://ruggi.s4shibam.com)                | `python` `tanstack-router` `celery`|
-  | Mizzo             | _Music Streaming Platform_ | [Link](https://github.com/s4shibam/mizzo)                | [Live](https://mizzo.s4shibam.com)                | `next` `express` `postgres` `aws`  |
-  | Shib AI           | _Shibam's AI Assistant_    | [Link](https://github.com/s4shibam/shib-ai)              | [Live](https://ai.s4shibam.com)                   | `next` `openai` `upstash`          |
-  | Cuizzy Mobile     | _Quiz App (Mobile)_        | [Link](https://github.com/s4shibam/cuizzy-mobile)        | NA                                                | `react-native` `expo` `nativewind` |
-  | Ckret             | _Anonymous Messaging_      | [Link](https://github.com/s4shibam/ckret)                | [Live](https://ckret.xyz)                         | `next` `shadcn/ui` `mongodb`       |
-  | Portfolio         | _Personal Portfolio_       | [Link](https://github.com/s4shibam/portfolio)            | [Live](https://s4shibam.com)                      | `next` `typescript` `supabase`     |
-  | Cuizzy            | _Quiz App (Web)_           | [Link](https://github.com/s4shibam/cuizzy)               | [Live](https://cuizzy.s4shibam.com)               | `react` `tailwindcss` `firebase`   |
-  | Sudoku Wizard     | _Sudoku Solver_            | [Link](https://github.com/s4shibam/sudoku-wizard)        | [Live](https://sudoku-wizard.s4shibam.com)        | `html` `tailwindcss` `javascript`  |
-  | Certivita         | _Certificate Generator_    | [Link](https://github.com/s4shibam/certivita)            | [Live](https://certivita.s4shibam.com)            | `html` `tailwindcss` `javascript`  |
-  | Screnoo           | _PC Screen Recorder_       | [Link](https://github.com/s4shibam/screnoo)              | [Live](https://screnoo.s4shibam.com)              | `html` `tailwindcss` `javascript`  |
-  | Filmingg          | _Movie Searching App_      | [Link](https://github.com/s4shibam/filmingg)             | [Live](https://filmingg.s4shibam.com)             | `html` `tailwindcss` `javascript`  |
-  | Calculator        | _Normal Calculator_        | [Link](https://github.com/s4shibam/calculator)           | [Live](https://calculator.s4shibam.com)           | `html` `css` `javascript`          |
-  | Clock             | _Digital Clock_            | [Link](https://github.com/s4shibam/digital-clock)        | [Live](https://digital-clock.s4shibam.com)        | `html` `css` `javascript`          |
-  | Registration Form | _Registration Form UI_     | [Link](https://github.com/s4shibam/registration-form-ui) | [Live](https://registration-form-ui.s4shibam.com) | `html` `css`                       |
-
-- #### Python Projects
-
-  - [Guess The Number Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Guess%20The%20Number)
-  - [Rock Paper Scissors Game](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Rock%20Paper%20Scissors)
-  - [Health Management System](https://github.com/s4shibam/Python-Programming/tree/master/15.%20Mini%20Projects/Health%20Management%20System)
+[![CodeChef](https://img.shields.io/badge/CodeChef-333?logo=CodeChef)](https://s4shibam.com/_cc)
+[![CodeForces](https://img.shields.io/badge/CodeForces-333?logo=Codeforces)](https://s4shibam.com/_cf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-333?logo=LeetCode)](https://s4shibam.com/_lc)
+[![HackerRank](https://img.shields.io/badge/HackerRank-333?logo=HackerRank)](https://s4shibam.com/_hr)
 
 <hr>
 
