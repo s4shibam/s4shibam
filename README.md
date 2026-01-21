@@ -11,7 +11,7 @@ Find all my social links at [s4shibam.com/links](https://s4shibam.com/links).
 ### My Projects
 
 | **Title** | **Description** | **Code** | **Demo** | **Tech Stack** |
-| - | - | - | - | - |
+| :--- | :--- | :---: | :---: | :--- |
 | Quco AI | *Shell Commands Generator* | [Code](https://github.com/s4shibam/quco-ai) | [NPM](https://www.npmjs.com/package/quco) | `node.js` `vercel ai` |
 | Ruggi | *Document Chat App (Web)* | [Code](https://github.com/s4shibam/ruggi) | [Live](https://ruggi.s4shibam.com) | `python` `tanstack-router` `celery` |
 | Mizzo | *Music Streaming Platform* | [Code](https://github.com/s4shibam/mizzo) | [Live](https://mizzo.s4shibam.com) | `next` `express` `postgres` `aws` |
