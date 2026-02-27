@@ -2,7 +2,10 @@
 
 ### About Me
 
-I'm a **Full Stack Engineer** (**2+ YOE**) who writes code responsibly, built products from scratch, and ships fast without sacrificing quality. I've worked across **market research platforms**, **sales intelligence systems**, **employee benefit tools**, and **e-commerce stores**. Built **audio transcoding infrastructure**, **multi-query RAG engines**, **AI hiring platforms**, **chat-bots**, and **npm packages**. Went from **ACM ICPC regionals** to shipping products people actually use.
+- I'm a **Full Stack Engineer** (**~3 YOE**) who writes code responsibly, built products from scratch, and ships fast without sacrificing quality.
+- I've worked across **market research platforms**, **sales intelligence systems**, **employee benefit tools**, and **e-commerce stores**.
+- Built **audio transcoding infrastructure**, **multi-query RAG engines**, **agentic deep research platforms**, **AI hiring platforms**, **chat-bots**, and **npm packages**.
+- Went from **ACM ICPC regionals** to shipping products and features as **Founding Engineer**.
 
 Find all my social links at [s4shibam.com/links](https://s4shibam.com/links).
 
