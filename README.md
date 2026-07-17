@@ -28,8 +28,8 @@ Find all my social links at [s4shibam.com/links](https://s4shibam.com/links).
 | Screnoo | *PC Screen Recorder* | [Code](https://github.com/s4shibam/screnoo) | [Live](https://screnoo.s4shibam.com) | `html` `tailwindcss` `javascript` |
 | Filmingg | *Movie Searching App* | [Code](https://github.com/s4shibam/filmingg) | [Live](https://filmingg.s4shibam.com) | `html` `tailwindcss` `javascript` |
 | Calculator | *Normal Calculator* | [Code](https://github.com/s4shibam/calculator) | [Live](https://calculator.s4shibam.com) | `html` `css` `javascript` |
-| Clock | *Digital Clock* | [Code](https://github.com/s4shibam/digital-clock) | [Live](https://digital-clock.s4shibam.com) | `html` `css` `javascript` |
-| Registration Form | *Registration Form UI* | [Code](https://github.com/s4shibam/registration-form-ui) | [Live](https://registration-form-ui.s4shibam.com) | `html` `css` |
+| Clock | *Digital Clock* | [Code](https://github.com/s4shibam/digital-clock) | [Live](https://clock.s4shibam.com) | `html` `css` `javascript` |
+| Registration Form | *Registration Form UI* | [Code](https://github.com/s4shibam/registration-form-ui) | [Live](https://form-ui.s4shibam.com) | `html` `css` |
 
 <hr>
 
